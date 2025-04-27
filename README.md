@@ -22,13 +22,13 @@ Implement a swerve drive system for omnidirectional movement, offering unparalle
 Clone this repository to kickstart your FTC project with state-of-the-art navigation and control systems.
 
 ## 🔗 Useful Links
-Road Runner Documentation
+[Road Runner Documentation](https://learnroadrunner.com/)
 
-FTCLib Documentation
+[FTCLib Documentation](https://ftclib.org/)
 
-MeepMeep Visualizer
+[MeepMeep Visualizer](https://learnroadrunner.com/tool/meepmeep.html)
 
-OTOSLocalizer Integration Guide
+[OTOSLocalizer Integration Guide](https://github.com/jdhs-ftc/sparkfun-otos-quickstart)
 
 Feel free to customize this template to suit your team's specific needs and elevate your robot's performance in the competition.
 
